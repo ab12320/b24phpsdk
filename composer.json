@@ -29,7 +29,7 @@
     "ext-json": "*",
     "ext-curl": "*",
     "ext-intl": "*",
-    "psr/log": "2.0.0",
+    "psr/log": "1.0.0",
     "fig/http-message-util": "^1",
     "giggsey/libphonenumber-for-php": "^8",
     "darsyn/ip": "^4 || ^5",
