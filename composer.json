@@ -33,7 +33,7 @@
     "fig/http-message-util": "^1",
     "giggsey/libphonenumber-for-php": "^8",
     "darsyn/ip": "^4 || ^5",
-    "nesbot/carbon": "^3",
+    "nesbot/carbon": "2.62.1",
     "moneyphp/money": "^3 || ^4",
     "mesilov/moneyphp-percentage": "^0.2",
     "symfony/http-client": "^6 || ^7",
